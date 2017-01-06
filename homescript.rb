@@ -5,9 +5,9 @@
 class Homescript < Formula
   desc ""
   homepage "https://github.com/Shashikant86/homebrew-taps"
-  url "https://github.com/Shashikant86/HomeScript/archive/__VERSION__.tar.gz"
-  version "__VERSION__"
-  sha256 "__SHA__"
+  url "https://github.com/Shashikant86/HomeScript/archive/v2.0.0.tar.gz"
+  version "v2.0.0"
+ 
 
 
   def install
