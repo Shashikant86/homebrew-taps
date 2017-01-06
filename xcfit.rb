@@ -6,7 +6,7 @@ class Xcfit < Formula
   desc ""
   homepage ""
   url "https://github.com/Shashikant86/XCFit/archive/v2.0.2.tar.gz"
-  sha256 "b0252fb612dcac189df95741a692197caf6dcea3"
+  sha256 "0e825fd1439bc2cec4a58f45f975ed12fdff3bfe246d0820aa8d44a8f8421c19"
 
   # depends_on "cmake" => :build
 
