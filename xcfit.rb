@@ -5,8 +5,8 @@
 class Xcfit < Formula
   desc ""
   homepage ""
-  url "https://github.com/Shashikant86/XCFit/archive/v2.0.1.tar.gz"
-  sha256 "34b7e7e7069a80a9eb2ef0e611a2fbdac6c5785334cfdfd696e5a19611ac2f58"
+  url "https://github.com/Shashikant86/XCFit/archive/v2.0.2.tar.gz"
+  sha256 "b0252fb612dcac189df95741a692197caf6dcea3"
 
   # depends_on "cmake" => :build
 
