@@ -2,7 +2,7 @@ class Xcfit < Formula
   desc "XCFit: Full Stack BDD framework for iOS app"
   homepage "https://shashikant86.github.io/XCFit/"
   url "https://github.com/Shashikant86/XCFit/archive/3.1.8.tar.gz"
-  sha256 "dbfa56c3e97f9d3153a71c2ebcaea2178aa0bc1acfe1eefe3a1fbe8a9f125036"
+  sha256 "00bf1674a572718d899f4db30073f5c6ebbbbdf546f6c7cb66dc0b8ee8cab4f6"
 
   def install
     bin.install 'homebrew/xcfit'
